@@ -1,8 +1,9 @@
 ﻿/*
 SQLyog Ultimate v8.32 
-MySQL - 5.7.3-m13 : Database - paltform
+MySQL - 5.7.3-m13 : Database - platform
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
